@@ -7,7 +7,7 @@ This application presents an interface having following features:
 4. check-out.
 
 The third party payment gateway is not integrated as of now, as it is a learning project.
-DB used: MS Access database
+DB used: MS Access database,
 Building tool: ANT.
 
 generated war, class files and libraries(jar) are also checked into this project.
